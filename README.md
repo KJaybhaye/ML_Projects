@@ -13,7 +13,7 @@ Training a model to classify movie reviews as positive and negative using BERT a
 Forecasting return value for various crypto currencies.
 
 ## Datasets
-I do not own the datasets used for in any of the projects. All rights belongs to corresponding authorities. Sources for datasets are given below.
+I do not own any dataset used in this project. All rights belongs to corresponding authorities. Sources for datasets are given below.
 
 #### Traffic_Light_Detection_With_FasterRCNN
 Dataset from Kaggle: https://www.kaggle.com/datasets/mbornoe/lisa-traffic-light-dataset
