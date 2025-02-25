@@ -31,3 +31,7 @@ Kaggle Dataset : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of
 
 #### Crypto_Return_Forecasting_With_LightGBM
 Kaggle Competition Dataset : https://www.kaggle.com/competitions/g-research-crypto-forecasting
+
+
+#### 
+Manga Query Dataset: https://huggingface.co/datasets/Madnesss/manga-query
