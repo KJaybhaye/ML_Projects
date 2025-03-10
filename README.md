@@ -17,6 +17,11 @@ A simple LLM agent using LangGraph, CromaDB vector store, Gemini model and LangC
 The agent talks to the user about Mangas, based on information queries vector store to get matching manga titles to recommend. It can also search Wikipedia to give more information about the manga.  
 
 
+### GraphRAG_Agent
+A simple agent that answers question based on graph network of citations  academic papers.  
+It is built using NetworkX, ArangoDb, LangChain and Gemini API.
+
+
 ## Datasets
 I do not own any dataset used in this project. All rights belongs to corresponding authorities. Sources for datasets are given below.
 
@@ -32,6 +37,9 @@ Kaggle Dataset : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of
 #### Crypto_Return_Forecasting_With_LightGBM
 Kaggle Competition Dataset : https://www.kaggle.com/competitions/g-research-crypto-forecasting
 
-
 #### RAG_Based_LLM_Agent
 Manga Query Dataset: https://huggingface.co/datasets/Madnesss/manga-query
+
+#### GraphRAG_Agent
+Papers metadata: https://www.kaggle.com/datasets/Cornell-University/arxiv/data  
+Citation data: https://github.com/mattbierbaum/arxiv-public-datasets
